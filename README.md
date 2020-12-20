@@ -7,5 +7,4 @@ Project is meant to increase my understanding of Generative Adversarial Networks
 ### Progress:
 Created a CIFAR10 GAN that can generate CIFAR10-like images and visualized it's progress on a constant seed:
 
-
-<video width="320" height="240" controls> <source src="gan_progress.mp4" type="video/mp4"> </video>
+![progress](gan_progress.mp4)
