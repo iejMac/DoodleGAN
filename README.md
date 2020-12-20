@@ -7,3 +7,5 @@ Project is meant to increase my understanding of Generative Adversarial Networks
 ### Progress:
 Created a CIFAR10 GAN that can generate CIFAR10-like images and visualized it's progress on a constant seed:
 
+![progress](
+
